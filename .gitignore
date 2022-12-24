@@ -1,5 +1,5 @@
 /venv/
 .idea
-__pychache__/
-
+__pycache__/
 /test/
+.DS_Store
