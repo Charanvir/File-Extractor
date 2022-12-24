@@ -48,7 +48,7 @@ the standalone application.
 
 The following image shows the application user interface:
 
-<img src="assets/FileExtractor.png" width="500"> 
+<img src="Assets/FileExtractor.png" width="500"> 
 
 ## Contributing
 
@@ -58,7 +58,7 @@ reviewed the code.
 
 ## Authors 
 
-To view more projects visit my [Github](https://github.com/Charanvir) account.
+To view more projects visit my [GitHub](https://github.com/Charanvir) account.
 
 Direct any additional questions you have regarding this application to charanvir123@gmail.com
 
